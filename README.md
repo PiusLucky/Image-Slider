@@ -8,7 +8,7 @@ The little image slider was integrated as part of a text slider used in building
 <img src="https://z-image-slider.netlify.app/static/images/past_of.png"/>
 
 
-## component of
+## component as
 It was used specifically in building this part of the project
 
 <img src="https://z-image-slider.netlify.app/static/images/componet.png"/>
