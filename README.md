@@ -1,6 +1,7 @@
 [![Netlify Status](https://api.netlify.com/api/v1/badges/a9e55f42-e40e-4951-91d3-5af3b25b35a5/deploy-status)](https://app.netlify.com/sites/z-image-slider/deploys)
 # Image-Slider
 Simple slider built with pure (vanilla) javascript
+<img src="https://z-image-slider.netlify.app/static/images/main_app.png"/>
 
 ## Powering
 The little image slider was integrated as part of a text slider used in building the project shown below.
