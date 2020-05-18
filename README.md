@@ -1,4 +1,4 @@
-[![Netlify Status](https://api.netlify.com/api/v1/badges/a9e55f42-e40e-4951-91d3-5af3b25b35a5/deploy-status)](https://z-image-slider.netlify.app/)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/a9e55f42-e40e-4951-91d3-5af3b25b35a5/deploy-status)](https://z-image-slider.netlify.app/)[![MIT License](https://img.shields.io/badge/license-MIT-007EC7.svg?style=flat-square)](/LICENSE.md) [![App Status](https://img.shields.io/pypi/status/Django.svg)](https://z-image-slider.netlify.app/)
 
 # Image-Slider
 ### Click <a href="https://z-image-slider.netlify.app/" target="_blank">here</a>
