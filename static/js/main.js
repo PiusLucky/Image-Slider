@@ -35,14 +35,13 @@ const goToSlide = (s) => {
     slides[currentSlide].className = 'slide';
     
      /* assuming we have 4 different slides
-        considering cases:
         we can index these slides as follows:
         Slide 1 = 0
         Slide 2 = 1
         Slide 3 = 2
         Slide 4 = 3
 
-        Now, we set the current slide to be zero.
+        Now, we set the current slide index to be zero.
 
         currentSlide = 0
 
@@ -117,7 +116,7 @@ previous_btn.onclick = () => {
   /* 
    when the next button is clicked do two things:
      1. run the pauseSLideshow function
-     2. run the previousSlide function (removing 1 to the currentSlide)
+     2. run the previousSlide function (removing 1 from the currentSlide)
    */
     pauseSlideshow();
     previousSlide();
