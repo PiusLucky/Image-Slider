@@ -9,13 +9,17 @@ Simple slider built with pure (vanilla) javascript
 ## Powering
 The little image slider was integrated as part of a text slider used in building the project shown below.
 
-<img src="https://z-image-slider.netlify.app/static/images/past_of.jpg"/>
+<a href="https://www.joint-access-programmer.com/" ><img src="https://z-image-slider.netlify.app/static/images/past_of.jpg"/></a>
 
 
 ## component as
 It was used specifically in building this part of the project
 
 <img src="https://z-image-slider.netlify.app/static/images/componet.jpg"/>
+
+## Developer's Blog
+
+<a href="https://www.joint-access-programmer.com/" target="_blank">here</a>
 
 ## remarks
 Overall, it was a nice little project.
