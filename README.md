@@ -12,14 +12,14 @@ The little image slider was integrated as part of a text slider used in building
 <a href="https://www.joint-access-programmer.com/" ><img src="https://z-image-slider.netlify.app/static/images/past_of.jpg"/></a>
 
 
-## component as
-It was used specifically in building this part of the project
+## Component for
+It was used specifically in building this part of <a href="https://www.joint-access-programmer.com/" target="_blank">the project</a>
 
 <img src="https://z-image-slider.netlify.app/static/images/componet.jpg"/>
 
 ## Developer's Blog
 
-<a href="https://www.joint-access-programmer.com/" target="_blank">here</a>
+<a href="https://www.joint-access-programmer.com/" target="_blank">joint-access-programmer.com</a>
 
-## remarks
+## Remarks
 Overall, it was a nice little project.
